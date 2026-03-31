@@ -1,33 +1,89 @@
 💻PHP-Dashboard-Project
 
-The Online Food Delivery System was developed using PHP and MySQL.The project started with requirement analysis and database design.HTML,CSS,and JavaScript were used for the user interface.PHP handled user authentication,menu display,cart management,order processing,and admin operations.
+🛒 Online Food Delivery System
 
-🔹Key Features:
+📌 Project Description:
 
-User Authentication:Secure login and registration system using PHP sessions.
+The Online Food Delivery System is a web-based application developed to simplify the process of ordering food online. This system allows users to browse restaurant menus, add items to their cart, and place orders conveniently from anywhere.
+With the increasing demand for online services, this project provides a user-friendly platform where customers can explore food options and order meals easily. It also includes an admin panel to manage menu items, orders, and users efficiently.
+The system is built using PHP and MySQL, with an interactive frontend designed using HTML, CSS, and Bootstrap. It ensures smooth communication between users and the system while maintaining data securely.
 
-Dynamic Menu Display:Fetch and display food items from the database.
+🚀 Features:
 
-Cart Management:Add,update,and remove items from the shopping cart.
+User registration and login system
+Browse food menu with categories
+Add to cart functionality
+Place and manage orders
+Admin panel for managing food items and orders
+Responsive design for better user experience
+Database storage for users, orders, and menu items
 
-Order Processing:Place orders with real-time calculation of total cost.
-
-Admin Panel:Manage food items, categories,orders,and users.
-
-Responsive UI:Built using HTML,CSS,and JavaScript for better user experience.
-
-🔹Technologies Used:
-
-Frontend: HTML,CSS,JavaScript
-
+🛠️ Tech Stack:
+Programming Language: PHP
+Frontend: HTML, CSS, Bootstrap
 Backend: PHP
+Database: MySQL 
+Server: XAMPP
+Tools: Visual Studio Code, Web Browser,PhpMyAdmin
 
-Database: MySQL
+⚙️ System Details:
+Handles user authentication and authorization
+Manages food menu dynamically
+Stores user and order data in PhpMyAdmin database
+Provides CRUD operations for admin
+Ensures smooth order processing workflow
 
-🔹Project Workflow:
+🔄 Project Workflow:
+Design database using MySQL 
+Create frontend interface using HTML, CSS, Bootstrap
+Develop backend logic using PHP
+Connect database using PhpMyAdmin
+Implement user authentication system
+Add cart and order functionality
+Test application locally using XAMPP server
+Deploy and run in web browser
 
-Requirement analysis and system planning
-Database design (tables for users, orders,food items,etc.)
-Backend development using PHP for business logic.
-Frontend integration for user interaction
-Testing and debugging.
+🗄️ Database (MySQL):
+Tables Include:
+Users
+Food_Items
+Orders
+Cart
+Stores:
+User details
+Food menu information
+Order history
+Cart items
+
+▶️ How to Run Project Locally
+Step 1: Install XAMPP and start Apache & MySQL
+Step 2: Copy project folder into htdocs
+Step 3: Open PhpMyAdmin and import database
+Step 4: Run project in browser:
+http://localhost/your-project-folder
+
+📁 Project Structure:
+
+project/
+│── index.php
+│── login.php
+│── register.php
+│── cart.php
+│── order.php
+│── admin/
+│── css/
+│── js/
+│── images/
+│── database/
+│── config.php
+
+🔮 Future Scope
+
+Add online payment integration
+Implement real-time order tracking
+Add restaurant rating and review system
+Develop mobile application version
+Improve UI/UX design
+
+👨‍💻 Author
+Developed by Mayuri Shetkar
