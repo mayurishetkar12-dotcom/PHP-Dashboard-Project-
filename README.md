@@ -1,14 +1,13 @@
-#🛒 Online Food Delivery System
+## 🛒Online Food Delivery System
+___
 
 ## 📌 Project Description:
-
 The Online Food Delivery System is a web-based application developed to simplify the process of ordering food online. This system allows users to browse restaurant menus, add items to their cart, and place orders conveniently from anywhere.
 With the increasing demand for online services, this project provides a user-friendly platform where customers can explore food options and order meals easily. It also includes an admin panel to manage menu items, orders, and users efficiently.
 The system is built using PHP and MySQL, with an interactive frontend designed using HTML, CSS, and Bootstrap. It ensures smooth communication between users and the system while maintaining data securely.
 ---
 
 ## 🚀 Features:
-
 User registration and login system
 Browse food menu with categories
 Add to cart functionality
