@@ -1,6 +1,6 @@
 #🛒 Online Food Delivery System
 
-##📌 Project Description:
+## 📌 Project Description:
 
 The Online Food Delivery System is a web-based application developed to simplify the process of ordering food online. This system allows users to browse restaurant menus, add items to their cart, and place orders conveniently from anywhere.
 With the increasing demand for online services, this project provides a user-friendly platform where customers can explore food options and order meals easily. It also includes an admin panel to manage menu items, orders, and users efficiently.
@@ -59,14 +59,14 @@ Order history
 Cart items
 ___
 
-▶️ How to Run Project Locally
+## ▶️ How to Run Project Locally
 Step 1: Install XAMPP and start Apache & MySQL
 Step 2: Copy project folder into htdocs
 Step 3: Open PhpMyAdmin and import database
 Step 4: Run project in browser:
 http://localhost/your-project-folder
-
-📁 Project Structure:
+___
+## 📁 Project Structure:
 
 project/
 │── index.php
@@ -80,14 +80,16 @@ project/
 │── images/
 │── database/
 │── config.php
+___
 
-🔮 Future Scope
+## 🔮 Future Scope
 
 Add online payment integration
 Implement real-time order tracking
 Add restaurant rating and review system
 Develop mobile application version
 Improve UI/UX design
+___
 
 👨‍💻 Author
 Developed by Mayuri Shetkar
